@@ -8,3 +8,14 @@ We support the development and use of soil information to address global challen
 This github organisation hosts a number of initiatives, such as source code of tools, documentation, ontologies, implementation examples, etc.
 
 We welcome your contributions via git issues/discussions and pull requests.
+
+## Other repositories
+
+Some links to other repositories in which ISRIC participates
+
+- [Soil Information of Africa](https://github.com/soil-data-of-africa)
+- [World reference base](https://github.com/iuss-wrb)
+- [Land Soil Crop hubs](https://github.com/lsc-hubs)
+- [Horizon Europe project - Soilwise](https://github.com/soilwise-he)
+- [EJP Soil](https://github.com/ejpsoil)
+- [GLOSIS Web Ontology](https://github.com/glosis-ld)
